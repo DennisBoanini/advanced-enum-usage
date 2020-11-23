@@ -1,4 +1,5 @@
-`import java.util.function.BiFunction;
+```java
+import java.util.function.BiFunction;
  
  public class Demo {
      private enum EOperation {
@@ -24,4 +25,5 @@
          System.out.println("MULTIPLY: " + EOperation.MULTIPLY.applyOperation(3, 5));
          System.out.println("DIVIDE: " + EOperation.DIVIDE.applyOperation(3, 5));
      }
- }`
+ }
+```
