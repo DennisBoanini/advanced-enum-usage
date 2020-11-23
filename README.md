@@ -1,3 +1,7 @@
+# Advanced Enum use
+
+Here we can see an advanced use of the enum. We use the functional interface `BiFunction`.
+
 ```java
 import java.util.function.BiFunction;
  
